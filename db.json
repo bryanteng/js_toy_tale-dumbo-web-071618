@@ -46,7 +46,7 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 2
+      "likes": 12
     },
     {
       "name": "Lightning McQueen",
@@ -59,6 +59,12 @@
       "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Mater_%28Cars%29.png",
       "likes": 0,
       "id": 10
+    },
+    {
+      "name": "Doc Hudson",
+      "url": "https://vignette.wikia.nocookie.net/p__/images/d/dd/Doc_Hudson.png/revision/latest?cb=20151018233414&path-prefix=protagonist",
+      "likes": 1,
+      "id": 11
     }
   ]
 }
